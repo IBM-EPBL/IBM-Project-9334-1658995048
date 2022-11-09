@@ -1,11 +1,11 @@
 <h1 align="fill" >
- <img src="CUSTOMER.png" />
+ <img src="CUSTOMER" />
 </h1>
 
 # CUSTOMER CARE REGISTRY <img src="https://media1.giphy.com/media/QC7U8wp3Td0FOogtgN/giphy.gif?cid=790b76114d358e1930e05c1faf6f0f0eb3269bd1220a8644&rid=giphy.gif&ct=s" width=35px>
 
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
-- TEAM ID    : PNT2022TMID05299
+- TEAM ID    : PNT2022TMID05326
 
 # PROJECT DESCRIPTION <img src="https://media3.giphy.com/media/bBqYdhH60AeETUz0du/giphy.gif?cid=ecf05e47xhjiyljcwf6w0opc1rwtp1yrgg4dz5flq62rmx5h&rid=giphy.gif&ct=s" width=35px>
 
