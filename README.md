@@ -1,7 +1,7 @@
 <br>
 <div align="center">
  <h1 align="fill" >
- <img src="https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/blob/main/CUSTOMER1.pdf" />
+ <img src="https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/blob/main/CUSTOMER.jpg" />
 </h1>
 <br/>
 
