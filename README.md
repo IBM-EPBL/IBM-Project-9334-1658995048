@@ -20,7 +20,7 @@ This Application has been developed to help the customer in processing their com
 ## TEAM MEMBERS <img src="https://media0.giphy.com/media/kSO8h7MGiPcMaSv25r/giphy.gif?cid=ecf05e47cxy9v8yp7ki1hxkd47qsstzqgxb2b394pykovnox&rid=giphy.gif&ct=s" width=35px>
 - RAKUL B
 - SADAM HUSSAIN M   
-- RITHESH HARSHAN B
+- Robin Singh
 - RAJA GURU N
 
 ## LINKS <img src="https://media0.giphy.com/media/z49wVcqTT5SMudT983/giphy.gif?cid=ecf05e47mwmeatdc78osldmkda4nldxxu3m2t3l3ldsmxpn4&rid=giphy.gif&ct=s" width=35px>
