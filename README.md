@@ -18,16 +18,16 @@ This Application has been developed to help the customer in processing their com
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
 
 ## TEAM MEMBERS <img src="https://media0.giphy.com/media/kSO8h7MGiPcMaSv25r/giphy.gif?cid=ecf05e47cxy9v8yp7ki1hxkd47qsstzqgxb2b394pykovnox&rid=giphy.gif&ct=s" width=35px>
-- RAKUL B
-- SADAM HUSSAIN M   
-- RITHESH HARSHAN B
-- RAJA GURU N
+- SHAMIM AHAMED J
+- SATHEESH PERIYANAN R   
+- RIYAAS MOHAMED N
+- ROBIN SINGH D
 
 ## LINKS <img src="https://media0.giphy.com/media/z49wVcqTT5SMudT983/giphy.gif?cid=ecf05e47mwmeatdc78osldmkda4nldxxu3m2t3l3ldsmxpn4&rid=giphy.gif&ct=s" width=35px>
-- RAKUL B           [TASK](https://github.com/IBM-EPBL/IBM-Project-8866-1658935657/tree/main/Assignments/Team%20lead%20Rakul)
-- SADAM HUSSAIN M   [TASK](https://github.com/IBM-EPBL/IBM-Project-8866-1658935657/tree/main/Assignments/Team%20Member%20Sadam)
-- RITHESH HARSHAN B [TASK](https://github.com/IBM-EPBL/IBM-Project-8866-1658935657/tree/main/Assignments/Team%20Member%20Rithesh)
-- RAJA GURU N       [TASK](https://github.com/IBM-EPBL/IBM-Project-8866-1658935657/tree/main/Assignments/Team%20Member%20Raja)
+- SHAMIM AHAMED J           [TASK](https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/tree/main/ASSIGNMENT/TEAM%20LEAD)
+- SATHEESH PERIYANAN R   [TASK](https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/tree/main/ASSIGNMENT/TEAM%20MEMBER%201)
+- RIYAAS MOHAMED N [TASK](https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/tree/main/ASSIGNMENT/TEAM%20MEMBER%202)
+- ROBIN SINGH D      [TASK](https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/tree/main/ASSIGNMENT/TEAM%20MEMBER%203)
 
 
 
