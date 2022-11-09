@@ -1,6 +1,9 @@
-<h1 align="fill" >
- <img src="https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/blob/main/CUSTOMER1.pdf" />
+<br>
+<div align="center">
+ <h1 align="fill" >
+ <img src="https://github.com/IBM-EPBL/IBM-Project-9334-1658995048/blob/main/CUSTOMER1.png" />
 </h1>
+<br/>
 
 # CUSTOMER CARE REGISTRY <img src="https://media1.giphy.com/media/QC7U8wp3Td0FOogtgN/giphy.gif?cid=790b76114d358e1930e05c1faf6f0f0eb3269bd1220a8644&rid=giphy.gif&ct=s" width=35px>
 
